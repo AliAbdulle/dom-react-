@@ -1,10 +1,10 @@
 import React from 'react'
 import {Link, Switch,Router} from 'react-router-dom'
-
-import Info from './Info'
-import Setting  from'./Setting'
+import info from './Info'
+import setting from './Setting'
 
 function Profile() {
+    
     return(
         <div>
             <h1>Profile Page</h1>
