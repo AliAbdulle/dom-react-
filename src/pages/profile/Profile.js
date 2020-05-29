@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link, Switch,Router} from 'react-router-dom'
-import info from './Info'
-import setting from './Setting'
+import Info from './Info'
+import Setting from './Setting'
 
 function Profile() {
     
