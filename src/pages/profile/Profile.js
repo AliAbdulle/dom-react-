@@ -8,7 +8,7 @@ function Profile() {
     return(
         <div>
             <h1>Profile Page</h1>
-            {/* link the file for post */}
+            {/* link the file page */}
             <ul>
                 <li><Link to="/profile/info">Profile Info</Link></li>
                 <li><Link to="/profile/setting">Profile Setting</Link></li>
