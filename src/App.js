@@ -18,12 +18,6 @@ function App() {
         <Route exact path="/profile">
           <Profile />
         </Route>
-        <Route path="/profile/info">
-          <Info />{" "}
-        </Route>
-        <Route path="/profile/setting">
-          <Setting />
-        </Route>
       </Switch>
       <Footer />
     </div>
