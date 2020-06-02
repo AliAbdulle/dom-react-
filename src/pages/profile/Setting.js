@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-function ProfileSetting() {
+function Setting() {
     return (
         <section>
             <h1> Profile Setting</h1>
@@ -11,4 +11,4 @@ function ProfileSetting() {
     )
 }
 
-export default ProfileSetting
+export default Setting
