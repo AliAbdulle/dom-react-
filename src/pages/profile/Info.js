@@ -1,6 +1,12 @@
 import React from 'react'
 
 function Info() {
+constructor(){
+    super( props);
+    this.state = {
+        name: 'ALi'
+    }
+}
 return (
     <section>
         <h1>Profile Info</h1>
