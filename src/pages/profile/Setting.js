@@ -5,8 +5,10 @@ function Setting() {
     return (
         <section>
             <h1> Profile Setting</h1>
+            <input type="email" />
             <input type="password" />
             <button>Change</button>
+
         </section>
     )
 }
